@@ -47,3 +47,10 @@ nav a {
     margin: 0 auto;        
     list-style-position: outside;
 }
+
+.futbol {
+    text-align: left;      
+    width: fit-content;    
+    margin: 0 auto;        
+    list-style-position: outside;
+}
