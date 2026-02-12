@@ -31,7 +31,7 @@ nav a {
 
 .imagen {
     display: block;
-    width: 1000PX;
+    width: 700PX;
     height: auto;
     margin: auto;
 }
@@ -39,4 +39,11 @@ nav a {
 .pie {
     display: flex;
     justify-content: center;
+}
+
+.comidas {
+    text-align: left;      
+    width: fit-content;    
+    margin: 0 auto;        
+    list-style-position: outside;
 }
